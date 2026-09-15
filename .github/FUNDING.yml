@@ -3,5 +3,5 @@
 # See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
 github: [REPLACE_WITH_GITHUB_SPONSORS_USERNAME]
 patreon: Tsvrc
-ko_fi: REPLACE_WITH_KOFI_NAME
+ko_fi: tsvrc
 custom: ["https://tsvrc.com/support"]
