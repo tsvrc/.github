@@ -1,29 +1,25 @@
 # Support
 
-This is where to go depending on what you need from a `tsvrc` repository.
-
 ## Ask a question
 
-Use [GitHub Discussions](https://github.com/orgs/tsvrc/discussions) on the relevant
-repository. Don't open an issue for a question, it's easy for questions to get lost in a
-tracker meant for actionable bugs and features.
+Use [GitHub Discussions](https://github.com/orgs/tsvrc/discussions). The issue trackers are for bugs
+and feature requests, and questions get lost there.
 
-## Report a bug
+## Report a bug or request a feature
 
-Open an issue on the specific repository the bug is in (`tsvrc-core` for the framework,
-`docs` for a documentation problem), using the bug report issue form.
+Open an issue in the repository it belongs to:
+
+- [tsvrc-core](https://github.com/tsvrc/tsvrc-core/issues) for Core
+- [udon-test-kit](https://github.com/tsvrc/udon-test-kit/issues) for Udon Test Kit
+- [docs](https://github.com/tsvrc/docs/issues) for a page on tsvrc.com
+- [vpm](https://github.com/tsvrc/vpm/issues) for the package listing
+
+To talk an idea through before writing it up, start a discussion first.
 
 ## Report a security vulnerability
 
-Do not open a public issue. See that repository's `SECURITY.md` for how to report it
-privately.
+Don't open a public issue. The `SECURITY.md` of each repository says how to report one privately.
 
-## Request a feature
+## Anything else
 
-Open a feature request issue on the relevant repository, or start a discussion first if
-you want to talk through the idea before writing it up formally.
-
-## Everything else
-
-Open a [GitHub Discussion](https://github.com/orgs/tsvrc/discussions) or contact
-[@ToniSeas](https://github.com/ToniSeas) directly.
+Start a discussion, or contact [@ToniSeas](https://github.com/ToniSeas) directly.

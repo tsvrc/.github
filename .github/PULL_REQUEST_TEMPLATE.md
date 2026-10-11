@@ -1,10 +1,8 @@
-## What does this change
+## What this changes
 
-<!-- What does this PR do, and why? Link the issue it closes, if any. -->
+<!-- What does this pull request do, and why? Link the issue it closes, if there is one. -->
 
-## Checklist
+## AI use
 
-- [ ] Commits are signed off (`git commit -s`) per the [DCO](https://developercertificate.org/).
-- [ ] If AI tooling helped write part of this PR, that's disclosed in this description, and you've personally reviewed, understood, and tested everything in it.
-- [ ] Any tests, builds, or checks that apply to this repo pass locally.
-- [ ] Docs were updated if this changes public behavior (see the `docs` repo).
+<!-- Which parts did AI tools help with, and how? Write "None" if you didn't use any. You're the
+author either way: you've read, understood and tested all of it, and you can explain it in review. -->
