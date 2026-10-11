@@ -11,8 +11,7 @@ are open source.
 
 The docs for both are on [tsvrc.com](https://tsvrc.com), and the Creator Companion installs them
 from [vpm.tsvrc.com](https://vpm.tsvrc.com). Questions and ideas go in
-[Discussions](https://github.com/orgs/tsvrc/discussions), and
-[SUPPORT.md](https://github.com/tsvrc/.github/blob/main/SUPPORT.md) says where everything else
-goes. If you'd like to support what I make, there's [tsvrc.com/support](https://tsvrc.com/support).
+[Discussions](https://github.com/orgs/tsvrc/discussions), and bugs in the issues of each repository.
+If you'd like to support what I make, there's [tsvrc.com/support](https://tsvrc.com/support).
 
 *TsVRC isn't affiliated with, endorsed by, or sponsored by VRChat Inc.*
