@@ -9,7 +9,6 @@ and feature requests, and questions get lost there.
 
 Open an issue in the repository it belongs to:
 
-- [tsvrc-core](https://github.com/tsvrc/tsvrc-core/issues) for Core
 - [udon-test-kit](https://github.com/tsvrc/udon-test-kit/issues) for Udon Test Kit
 - [docs](https://github.com/tsvrc/docs/issues) for a page on tsvrc.com
 - [vpm](https://github.com/tsvrc/vpm/issues) for the package listing

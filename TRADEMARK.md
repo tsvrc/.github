@@ -7,8 +7,8 @@ repository covers its code or docs, not the TsVRC name or logo.
 ## Fine without asking
 
 - Mentioning TsVRC and its projects by name, linking to them and writing about them.
-- Saying your work uses or works with a TsVRC project, such as "built with TsVRC Core" or "tested
-  with Udon Test Kit", when it does.
+- Saying your work uses or works with a TsVRC project, such as "tested with Udon Test Kit", when it
+  does.
 - Sharing an unmodified release under its own name.
 
 ## Ask first
